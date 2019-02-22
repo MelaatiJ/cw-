@@ -6,7 +6,7 @@
 - Create a "total" route that takes an integer in the URL and returns a response with "The sum of all numbers from 0 to the integer is: [SUM]"
 
 ### Exercise 2
-Using the Cup model/schema create
+Using the Cup model/schema create 
 Create a Cup model/schema with name, material, and manufacturerDate attributes. Create 3 entries using 3 different methods (admin site, create method using an endpoint, and class construtor using an endpoint).
 
 Create an 'all/' endpoint that prints out all entry purchaseTimes and create another new endpoint to change the material text of cups manufactured after 2012 to be "Slightly New".
